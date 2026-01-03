@@ -10,9 +10,9 @@ Window: 1200×700 with 3 sliders (left) + live plot (right)
 
 Simulation CONTROLS :
   Slider      Range    Effect 
-  Glass εr    1-9      Slows wave 
-  Water σ    0-1 S/m   Absorbs energy 
-  Water εr    1-15     Slows in water 
+  Glass εr    1-9      Slows wave |
+  Water σ    0-1 S/m   Absorbs energy | 
+  Water εr    1-15     Slows in water  |
 
 LAYOUT
 Cells 0-99: Vacuum
