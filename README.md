@@ -1,5 +1,5 @@
 # Interactive-FDTD-Material-Explorer
-Team: shanmukhakumar   Members: BURUSU SHANMUKHA KUMAR, MOHAMMED SHAIK, SHARLI NELATURI 
+Team: shanmukhakumar   Members: BURUSU SHANMUKHA KUMAR, MOHAMMED SHAIK, SHARLI NELATURI     
 RUN INSTRUCTIONS      
 1.pip install numpy matplotlib
 
