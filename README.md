@@ -8,7 +8,7 @@ RUN INSTRUCTIONS
 
 Window: 1200×700 with 3 sliders (left) + live plot (right)
 
-Simulation CONTROLS
+Simulation CONTROLS :
   Slider      Range    Effect 
   Glass εr    1-9      Slows wave 
   Water σ    0-1 S/m   Absorbs energy 
